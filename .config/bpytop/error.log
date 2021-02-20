@@ -1,0 +1,199 @@
+16/10/20 (17:04:56) | ERROR: Exception when sending signal 2 to pid 873
+16/10/20 (17:04:56) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+16/10/20 (17:04:56) | ERROR: Exception when sending signal 2 to pid 873
+16/10/20 (17:04:56) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+16/10/20 (17:04:57) | ERROR: Exception when sending signal 2 to pid 873
+16/10/20 (17:04:57) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+16/10/20 (17:04:57) | ERROR: Exception when sending signal 2 to pid 873
+16/10/20 (17:04:57) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+16/10/20 (17:04:58) | ERROR: Exception when sending signal 2 to pid 873
+16/10/20 (17:04:58) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+16/10/20 (18:55:29) | INFO: Loglevel set to INFO
+23/10/20 (17:24:26) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:24:26) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:28) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:24:28) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:31) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:24:31) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:40) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:24:40) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:42) | ERROR: Exception when sending signal 15 to pid 4777
+23/10/20 (17:24:42) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:43) | ERROR: Exception when sending signal 15 to pid 4989
+23/10/20 (17:24:43) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:43) | ERROR: Exception when sending signal 15 to pid 4989
+23/10/20 (17:24:43) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:51) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:24:51) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:52) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:24:52) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:53) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:24:53) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:53) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:24:53) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:24:53) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:24:53) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:25:07) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:25:07) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:25:09) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:25:09) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:25:09) | ERROR: Exception when sending signal 9 to pid 4777
+23/10/20 (17:25:09) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:25:10) | ERROR: Exception when sending signal 15 to pid 4777
+23/10/20 (17:25:10) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+23/10/20 (17:25:10) | ERROR: Exception when sending signal 15 to pid 4777
+23/10/20 (17:25:10) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+06/12/20 (02:04:41) | ERROR: Exception when sending signal 9 to pid 5987
+06/12/20 (02:04:41) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+06/12/20 (02:04:46) | ERROR: Exception when sending signal 9 to pid 5987
+06/12/20 (02:04:46) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+06/12/20 (02:04:47) | ERROR: Exception when sending signal 9 to pid 5987
+06/12/20 (02:04:47) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+06/12/20 (02:04:47) | ERROR: Exception when sending signal 9 to pid 5987
+06/12/20 (02:04:47) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+06/12/20 (02:04:51) | ERROR: Exception when sending signal 9 to pid 5987
+06/12/20 (02:04:51) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+06/12/20 (02:04:51) | ERROR: Exception when sending signal 9 to pid 5987
+06/12/20 (02:04:51) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+06/12/20 (02:04:51) | ERROR: Exception when sending signal 9 to pid 5987
+06/12/20 (02:04:51) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+06/12/20 (02:04:51) | ERROR: Exception when sending signal 9 to pid 5987
+06/12/20 (02:04:51) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.8/site-packages/bpytop.py", line 4680, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+20/02/21 (02:16:00) | ERROR: Exception when sending signal 9 to pid 19928
+20/02/21 (02:16:00) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.9/site-packages/bpytop.py", line 4871, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+20/02/21 (02:16:07) | ERROR: Exception when sending signal 9 to pid 19928
+20/02/21 (02:16:07) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.9/site-packages/bpytop.py", line 4871, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+20/02/21 (02:16:14) | ERROR: Exception when sending signal 9 to pid 19928
+20/02/21 (02:16:14) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/home/skeet/.local/lib/python3.9/site-packages/bpytop.py", line 4871, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted

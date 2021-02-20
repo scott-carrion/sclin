@@ -1,0 +1,9 @@
+2021/02/08-20:05:47.762 90a Reusing MANIFEST /home/skeet/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/02/08-20:05:47.762 90a Recovering log #91
+2021/02/08-20:05:47.763 90a Reusing old log /home/skeet/.config/Slack/Local Storage/leveldb/000091.log 
+2021/02/08-20:06:47.945 90a Level-0 table #95: started
+2021/02/08-20:06:47.951 90a Level-0 table #95: 13374 bytes OK
+2021/02/08-20:06:47.955 90a Delete type=0 #91
+2021/02/08-21:40:47.941 3142 Level-0 table #97: started
+2021/02/08-21:40:47.951 3142 Level-0 table #97: 16032 bytes OK
+2021/02/08-21:40:47.954 3142 Delete type=0 #94

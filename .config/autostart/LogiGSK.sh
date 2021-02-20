@@ -1,0 +1,1 @@
+/usr/share/logigsk/LogiGSK.sh

@@ -1,0 +1,16 @@
+{
+  "segments": [
+    "virtual_env",
+    "username",
+    "hostname",
+    "ssh",
+    "cwd",
+    "git",
+    "hg",
+    "jobs"
+  ],
+  "cwd": {
+    "mode": "dironly"
+  },
+  "theme": "/home/skeet/.config/powerline-shell/theme.py"
+}

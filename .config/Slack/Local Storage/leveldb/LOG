@@ -1,0 +1,15 @@
+2021/02/13-14:24:13.663 511 Reusing MANIFEST /home/skeet/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/02/13-14:24:13.663 511 Recovering log #96
+2021/02/13-14:24:13.664 511 Reusing old log /home/skeet/.config/Slack/Local Storage/leveldb/000096.log 
+2021/02/13-18:56:14.057 49a6 Level-0 table #100: started
+2021/02/13-18:56:14.067 49a6 Level-0 table #100: 11605 bytes OK
+2021/02/13-18:56:14.070 49a6 Delete type=0 #96
+2021/02/13-18:56:14.071 48d2 Compacting 4@0 + 1@1 files
+2021/02/13-18:56:14.074 48d2 Generated table #101@0: 10 keys, 4020 bytes
+2021/02/13-18:56:14.074 48d2 Compacted 4@0 + 1@1 files => 4020 bytes
+2021/02/13-18:56:14.077 48d2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/13-18:56:14.078 48d2 Delete type=2 #100
+2021/02/13-18:56:14.078 48d2 Delete type=2 #92
+2021/02/13-18:56:14.078 48d2 Delete type=2 #95
+2021/02/13-18:56:14.078 48d2 Delete type=2 #97
+2021/02/13-18:56:14.078 48d2 Delete type=2 #89

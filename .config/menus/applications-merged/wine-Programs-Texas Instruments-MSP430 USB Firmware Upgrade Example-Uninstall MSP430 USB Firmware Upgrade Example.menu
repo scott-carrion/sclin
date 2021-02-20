@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Texas Instruments</Name>
+    <Directory>wine-Programs-Texas Instruments.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Texas Instruments-MSP430 USB Firmware Upgrade Example</Name>
+    <Directory>wine-Programs-Texas Instruments-MSP430 USB Firmware Upgrade Example.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-Texas Instruments-MSP430 USB Firmware Upgrade Example-Uninstall MSP430 USB Firmware Upgrade Example.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>
